@@ -1,4 +1,4 @@
 <<<<<<< HEAD
 # Repo git test group
 
-Ceci est un repos de git en groupe.
+Ceci est le repos de git en groupe.
